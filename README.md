@@ -2,6 +2,8 @@
 
 A modern network scanner built with GTK4, Libadwaita, and Python. It provides a user-friendly interface to scan your local network, discover devices, and view detailed information.
 
+![IPsxanner](assets/logoscanner.svg)
+
 ## Features
 
 - **Ping Sweep**: Quickly discover devices on the network.
