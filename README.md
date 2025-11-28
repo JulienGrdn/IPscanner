@@ -56,4 +56,4 @@ sudo dnf install network-scanner
 
 ## License
 
-MIT
+This project utilizes python-nmap, a library developed by Alexandre Norman and contributors to facilitate Nmap integration. The source code is available at Bitbucket (https://bitbucket.org/xael/python-nmap/src/master/) and is distributed under the GNU General Public License v3 (GPLv3). Please note that this library wraps the Nmap Security Scanner, which is subject to its own separate licensing terms.
