@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Network Scanner
+Comment=Scan your local network for devices
+Exec=network-scanner
+Icon=network-scanner
+Terminal=false
+Type=Application
+Categories=Network;System;
+StartupNotify=true
